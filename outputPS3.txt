@@ -1,0 +1,5 @@
+Minimum sum = 31, inorder traversal = [2, 6, 3, 15, 5]
+Minimum sum = 80, inorder traversal = [3, 12, 4, 20, 5, 30, 6]
+Minimum sum = 83, inorder traversal = [3, 15, 5, 50, 10]
+Minimum sum = 52, inorder traversal = [2, 6, 3, 12, 4, 20, 5]
+Minimum sum = 94, inorder traversal = [2, 6, 3, 12, 4, 20, 5, 35, 7]
