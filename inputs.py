@@ -8,7 +8,7 @@ def read_inputs(path="./inputPS3.txt"):
     with open(path, 'r') as f:
         lines = f.readlines()
         for line_number, line in enumerate(lines):
-            split_numbers = line.split(',')
+            split_numbers = line.split(' ')
             try:
                 split_numbers = [int(n) for n in split_numbers]
                 inputs.append((split_numbers))
